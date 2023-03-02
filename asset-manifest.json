@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Project-ReactJS-Marvel-API/static/css/main.cdb6717f.css",
+    "main.js": "/Project-ReactJS-Marvel-API/static/js/main.609e9ff7.js",
+    "static/media/marvel.jpg": "/Project-ReactJS-Marvel-API/static/media/marvel.7a7854574b93b74260eb.jpg",
+    "index.html": "/Project-ReactJS-Marvel-API/index.html",
+    "main.cdb6717f.css.map": "/Project-ReactJS-Marvel-API/static/css/main.cdb6717f.css.map",
+    "main.609e9ff7.js.map": "/Project-ReactJS-Marvel-API/static/js/main.609e9ff7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdb6717f.css",
+    "static/js/main.609e9ff7.js"
+  ]
+}
